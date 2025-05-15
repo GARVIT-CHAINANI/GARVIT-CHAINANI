@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GARVIT-CHAINANI
+- 👋 Hi, I’m GARVIT-CHAINANI
 - 👀 I’m interested in website devlopment
 - 🌱 I’m currently learning Javavscript
 - 📫 How to reach me : garvit.chainani9@gmail.com
