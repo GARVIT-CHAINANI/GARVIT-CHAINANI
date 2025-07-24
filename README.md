@@ -4,7 +4,7 @@
 - 📫 How to reach me : garvit.chainani9@gmail.com
 - 😄 Pronouns: He 
 - ⚡ Fun fact: i'am 17 years old
-- 👉 https://bankist-demo-garvitchainani.netlify.app/
+- 👉 https://get-movies-details.netlify.app/
 
 <!---
 GARVIT-CHAINANI/GARVIT-CHAINANI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
